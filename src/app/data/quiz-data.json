@@ -1,0 +1,54 @@
+{
+    "quizData": [
+        {
+            "question": "What reading technique involves quickly scanning text to find specific information?",
+            "options": [
+                "Deep reading",
+                "Skimming",
+                "Analytical reading",
+                "Close reading"
+            ],
+            "answer": "Skimming"
+        },
+        {
+            "question": "Which of the following is considered a benefit of regular reading?",
+            "options": [
+                "Decreased vocabulary",
+                "Reduced empathy",
+                "Improved cognitive function",
+                "Shorter attention span"
+            ],
+            "answer": "Improved cognitive function"
+        },
+        {
+            "question": "What is the term for a book that introduces and explains a subject to beginners?",
+            "options": [
+                "Biography",
+                "Primer",
+                "Anthology",
+                "Memoir"
+            ],
+            "answer": "Primer"
+        },
+        {
+            "question": "Which reading strategy involves making predictions about what will happen next in a text?",
+            "options": [
+                "Inferencing",
+                "Summarizing",
+                "Questioning",
+                "Visualizing"
+            ],
+            "answer": "Inferencing"
+        },
+        {
+            "question": "What is the average reading speed of an adult?",
+            "options": [
+                "100-150 words per minute",
+                "200-250 words per minute",
+                "300-350 words per minute",
+                "400-450 words per minute"
+            ],
+            "answer": "200-250 words per minute"
+        }
+    ]
+}
